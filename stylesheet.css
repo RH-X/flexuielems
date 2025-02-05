@@ -1,0 +1,80 @@
+/* this is really scrambled, I will get better at the order one day. */
+
+h1 {
+  font-family: 'Bungee Inline', cursive;
+  color: #000000;
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 30px;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 3px;
+}
+
+h6 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 15px;
+}
+
+p {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  line-height: 1em;
+}
+.flexgraybackground {
+  font-family: 'Lato', sans-serif;
+  border-color: #B7F52E;
+  border-style: dashed;
+  background: #f8f4f4;
+  background-size: 100%;
+}
+
+li {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  list-style-type: none;
+}
+  
+.afterlist {
+  padding-top: 50px;
+  padding-bottom: 50px; 
+  font-family: 'Lato', sans-serif;
+  }
+
+.wrapper {
+  width: 400px;
+  margin: auto;
+}
+
+ul {
+  padding-left: 10px;
+  padding-right: 15px;
+  font-family: 'Lato', sans-serif;
+}
+footer {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  background-color: #232B40;
+  color: white;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  border-color: #B7F52E;
+  border-style: solid;
+}
